@@ -671,11 +671,7 @@ Holesky Puffer Validator Ticket Contract: 0xA143c6bFAff0B25B485454a9a8DB94dC469F
 
 **Open the FileZilla application on your local computer and connect to the server.**
 
-![image](https://github.com/Mozgiii9/PufferSetupTheNode/assets/74683169/f025efc2-3b0b-46bc-9fc4-4a83cd4691e2)
-
 *Then go to the directory "/root/puffer/coral". Transfer the "registration.json" file to your PC. Just highlight it and move it to the left side of the window to any convenient folder on your computer*
-
-![image](https://github.com/Mozgiii9/PufferSetupTheNode/assets/74683169/6fbac5e3-7372-4337-a378-9fc4e3c1b6b9)
 
 *After transferring the file to your PC, load it into your browser window and click "Finish". You will need to sign any necessary transactions in the Metamask window that opens up*
 
